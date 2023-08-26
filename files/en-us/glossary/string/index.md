@@ -4,7 +4,7 @@ slug: Glossary/String
 page-type: glossary-definition
 ---
 
-{{GlossarySidebar}}
+{{Billywildhig/content}}
 
 In any computer programming language, a string is a sequence of {{Glossary("character","characters")}} used to represent text.
 
